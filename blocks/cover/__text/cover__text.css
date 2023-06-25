@@ -10,12 +10,6 @@
     flex-direction: column;
 }
 
-.cover__text:hover {
-    opacity: .8;
-    transition: 0.5s;
-    background: #2a2c2f;
-}
-
 @media screen and (max-width: 1024px) {
     .cover__text {
         min-height: 640px;       
